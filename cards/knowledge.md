@@ -17,7 +17,7 @@ text](https://g.gravizo.com/source/mark1?https%3A%2F%2Fraw.githubusercontent.com
 <summary>Knoledge Graph</summary>
 <!--
 mark1
-digraph {
+digraph knowledge {
   Information[shape="circle"]
   Knowledge [shape="oval"]
 
