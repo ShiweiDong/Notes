@@ -14,13 +14,15 @@ For information to be a knowledge, it must survive two very important premise:
 text](https://g.gravizo.com/source/mark1?https%3A%2F%2Fraw.githubusercontent.com%2FShiweiDong%2FNotes%2Fmaster%2Fcards%2Fknowledge.md)
 
 <details>
-mark1
 <summary>Knoledge Graph</summary>
+<!--
+mark1
 digraph {
   Information[shape="circle"]
   Knowledge [shape="oval"]
 
   Information -> Knowledge [ label = "Filter"]
 }
+-->
 mark1
 </details>
