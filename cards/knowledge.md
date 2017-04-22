@@ -18,10 +18,10 @@ text](https://g.gravizo.com/source/mark1?https%3A%2F%2Fraw.githubusercontent.com
 <!--
 mark1
 digraph knowledge {
-  Information[shape="circle"]
-  Knowledge [shape="oval"]
+  Information[shape="circle"];
+  Knowledge [shape="oval"];
 
-  Information -> Knowledge [ label = "Filter"]
+  Information -> Knowledge [ label = "Filter"];
 }
 -->
 mark1
