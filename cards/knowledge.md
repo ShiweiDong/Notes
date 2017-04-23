@@ -17,16 +17,12 @@ text](https://g.gravizo.com/source/mark1?https%3A%2F%2Fraw.githubusercontent.com
 <summary>Knoledge Graph</summary>
 <!--
 mark1
- digraph G {
-   main -> parse -> execute;
-   main -> init;
-   main -> cleanup;
-   execute -> make_string;
-   execute -> printf
-   init -> make_string;
-   main -> printf;
-   execute -> compare;
- }
+digraph {
+  Information[shape="circle"]
+  Knowledge [shape="oval"]
+
+  Information -> Knowledge [ label = "Filter"]
+}
 mark1
 -->
 </details>
