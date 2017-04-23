@@ -17,12 +17,11 @@ text](https://g.gravizo.com/source/mark?https%3A%2F%2Fraw.githubusercontent.com%
 <summary></summary>
 <!--
 mark
-digraph {
-  Information[shape="circle"]
-  Knowledge [shape="oval"]
-
-  Information -> Knowledge [ label = "Filter"]
-}
+  digraph G {
+    Information[shape="circle"];
+    Knowledge [shape="oval"];
+    Information -> Knowledge [ label = "Filter"];
+  }
 mark
 -->
 </details>
