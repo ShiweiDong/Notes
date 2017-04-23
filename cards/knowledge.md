@@ -11,18 +11,18 @@ For information to be a knowledge, it must survive two very important premise:
 2.  Contribute to your long term well-being.
 
 ![Alt
-text](https://g.gravizo.com/source/m?https%3A%2F%2Fraw.githubusercontent.com%2FShiweiDong%2FNotes%2Fmaster%2Fcards%2Fknowledge.md)
+text](https://g.gravizo.com/source/mark1?https%3A%2F%2Fraw.githubusercontent.com%2FShiweiDong%2FNotes%2Fmaster%2Fcards%2Fknowledge.md)
 
 <details>
 <summary>What is knowledge</summary>
 <!--
-m
+mark1
   digraph G {
-    Information [shape = "circle"];
-    Knowledge [shape = "oval"];
+    Information [shape = "circle"]
+    Knowledge [shape = "oval"]
     
-    Information -> Knowledge [label = "Filter"];
+    Information -> Knowledge [label = "Filter"]
   }
-m
+mark1
 -->
 </details>
