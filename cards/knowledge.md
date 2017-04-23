@@ -17,7 +17,7 @@ text](https://g.gravizo.com/source/mark?https%3A%2F%2Fraw.githubusercontent.com%
 <summary>What is knowledge</summary>
 <!--
 mark
-  digraph {
+  digraph G {
     Information[shape="circle"];
     Knowledge [shape="oval"];
     Information -> Knowledge [ label = "Filter"];
